@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+  color: aliceblue;
+  
+
+ }
+
+ p {
+  display: inline-flex;
+  height: 70px;
+  width: 100px;
+  background-color: rgb(80, 237, 48);
+  align-items: center;
+  font-size: 30px;
+  color: red;
+
+ }
